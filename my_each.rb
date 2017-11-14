@@ -10,7 +10,7 @@ def my_each(array)
     array
 
   else
-    raise "This block should not run!"
+    "This block should not run!"
 
   end
 end
