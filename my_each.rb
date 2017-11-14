@@ -4,3 +4,5 @@ array.collect do {|num|}
   array << num
   array
 end
+end
+end
